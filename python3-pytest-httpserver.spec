@@ -7,7 +7,7 @@ Summary:	HTTP server for pytest
 Summary(pl.UTF-8):	Serwer HTTP dla pytesta
 Name:		python3-pytest-httpserver
 Version:	1.0.8
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pytest-httpserver/
